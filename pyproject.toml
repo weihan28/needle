@@ -2,7 +2,7 @@
 name = "cactus-needle"
 version = "3.1.0"
 description = "A 14MB foundation tool-calling model for tiny devices: inference, LoRA finetuning, and build."
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 dependencies = [
